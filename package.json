@@ -1,0 +1,30 @@
+{
+  "name": "vue-file-dropzone",
+  "version": "0.0.0",
+  "main": "./dist/file-dropzone.umd.js",
+  "module": "./dist/file-dropzone.es.js",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/file-dropzone.es.js",
+      "require": "./dist/file-dropzone.umd.js"
+    },
+    "./dist/style.css": "./dist/style.css"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "cypress": "^12.17.2",
+    "path": "^0.12.7",
+    "vite": "^4.4.5"
+  }
+}
