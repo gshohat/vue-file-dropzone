@@ -5,6 +5,8 @@
 Lightweight drag & drop component < 10k 😎 <br>
 Emits the dropped file to be caught in parent component.
 
+![ezgif com-video-to-gif](https://github.com/gshohat/vue-file-dropzone/assets/91323932/078a5da2-3a70-430f-8827-df37249ce419)
+
 ## Usage
 
 `npm i vue-file-dropzone`
