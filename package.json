@@ -1,6 +1,6 @@
 {
   "name": "vue-file-dropzone",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "./dist/file-dropzone.umd.js",
   "module": "./dist/file-dropzone.es.js",
   "files": [
@@ -25,6 +25,6 @@
     "@vitejs/plugin-vue": "^4.2.3",
     "cypress": "^12.17.2",
     "path": "^0.12.7",
-    "vite": "^4.4.5"
+    "vite": "^4.4.6"
   }
 }

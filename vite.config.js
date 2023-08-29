@@ -8,15 +8,15 @@ export default defineConfig({
       entry: path.resolve(__dirname, "src/index.js"),
       name: "vue-file-dropzone",
       fileName: (format) => `file-dropzone.${format}.js`
-    }
-  },
-  rollupOptions: {
-    external: ["vue"],
-    output: {
-      globals: {
-        vue: "Vue",
+    },
+    rollupOptions: {
+      external: ["vue"],
+      output: {
+        globals: {
+          vue: "Vue",
+        }
       }
-    }
+    },
   },
   plugins: [vue()],
 })
