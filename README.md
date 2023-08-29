@@ -3,6 +3,10 @@
 Lightweight drag & drop component < 10k 😎 <br>
 Emits the dropped file to be caught in parent component.
 
+
+https://github.com/gshohat/vue-file-dropzone/assets/91323932/78e49e79-3d57-42da-88fd-4cb07a71357a
+
+
 ![mov](https://github.com/gshohat/vue-file-dropzone/assets/91323932/a46711bd-4b5a-4a20-b6e2-4d26cadb9e5e)
 
 ## Usage
