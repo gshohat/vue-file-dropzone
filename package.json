@@ -1,6 +1,9 @@
 {
   "name": "vue-file-dropzone",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "author": "Gilad Shohat",
+  "homepage": "https://github.com/gshohat/vue-file-dropzone#readme",
+  "license": "MIT",
   "main": "./dist/file-dropzone.umd.js",
   "module": "./dist/file-dropzone.es.js",
   "files": [
@@ -27,5 +30,11 @@
     "path": "^0.12.7",
     "vite": "^4.4.6"
   },
-  "keywords": ['vue', 'vuejs', 'component', 'drag', 'drop']
+  "keywords": [
+    "vue",
+    "vuejs",
+    "component",
+    "drag",
+    "drop"
+  ]
 }
