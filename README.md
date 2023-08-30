@@ -12,7 +12,7 @@ Emits the dropped [file](https://developer.mozilla.org/en-US/docs/Web/API/File) 
 `npm i vue-file-dropzone`
 
 ```
-import VueFileDropzone from 'vue-file-dropzone
+import FileDropzone from 'vue-file-dropzone'
 import 'vue-file-dropzone/dist/style.css
 
 <script setup>
@@ -23,7 +23,7 @@ function handleDrop(file) {
 
 
 <template>
-<VueFileDropzone @drop-file="handleDrop"/>
+<FileDropzone @drop-file="handleDrop"/>
 </template
 ```
 
