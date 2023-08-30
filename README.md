@@ -23,7 +23,7 @@ function handleDrop(file) {
 
 
 <template>
-<FileDropzone @drop-file="handleDrop"/>
+<VueFileDropzone @drop-file="handleDrop"/>
 </template
 ```
 
