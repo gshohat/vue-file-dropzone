@@ -3,7 +3,7 @@
 ![NPM License](https://img.shields.io/npm/l/vue-file-dropzone)
 
 **Lightweight** drag & drop component for [Vue](https://vuejs.org/) **< 5k** 😎 <br>
-Emits the dropped [file](https://developer.mozilla.org/en-US/docs/Web/API/File) to be caught in parent component.
+Emits the dropped [file](https://developer.mozilla.org/en-US/docs/Web/API/File) to parent component.
 
 ![play](https://github.com/gshohat/vue-file-dropzone/assets/91323932/0cf9e5b8-8ce6-4b91-994d-b1097bd9a31b)
 
